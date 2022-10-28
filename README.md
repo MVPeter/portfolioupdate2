@@ -1,6 +1,6 @@
 This webpage was built to demonstrate a responsive website and serve as practice for creating a profile page.  There are three pages total.  
 
-    The deployed link:  [PortfolioUpdate](https://mvpeter.github.io/portfolioupdate2/)
+   [PortfolioUpdate](https://mvpeter.github.io/portfolioupdate2/)
 
     Link to the repository on GitHub:  https://mvpeter.github.io/portfolioupdate2/
 
